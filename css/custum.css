@@ -1,0 +1,17 @@
+/* 
+    Document   : custum
+    Created on : May 20, 2014, 3:09:12 PM
+    Author     : mukul.jayaprakash
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.input-group { 
+    padding: 3px;
+    padding-left: 0px;
+        padding-right: 0px;
+}
+.list-group-item{
+    word-break: break-word;
+}
+
